@@ -12,6 +12,10 @@
       "localizedDescription": "Experience Los Santos on iOS.\nGrand Theft Auto V blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.\nNote: Requires data files placed inside the app container through the iOS Files app.",
       "iconURL": "https://raw.githubusercontent.com/Usr-land/GTAV-iOS-Altrepo/main/IMG_1272.jpeg",
       "size": 34498150
+      "screenshotURLs": [
+        "https://usr-land.github.io/GTAV-iOS-Altrepo/Screen0.png",
+        "https://usr-land.github.io/GTAV-iOS-Altrepo/Screen1.png"
+     ]
     }
   ]
 }
